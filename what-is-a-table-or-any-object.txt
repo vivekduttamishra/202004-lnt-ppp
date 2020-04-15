@@ -1,0 +1,28 @@
+Table is a
+properties 
+  * Four legged  <---- table may be one legged
+  * Elavated Wooden Surface <--- may be glass
+behavior
+  * For day to day use <--- what use?
+
+
+* A Table is where you keep your things
+	x table is not its 
+		x surface
+		x legs
+		x materials
+	* why do we need surface,legs,etc?
+		* to keep things
+
+
+Generialize it
+
+* An Object is what object does.
+
+  * An object is a collection of Behaviors only
+	* object is not a collection of states (Fields)
+
+  * why do we need state?
+	* to implement behavior
+
+
