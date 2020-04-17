@@ -1,0 +1,7 @@
+assignment#2
+
+Create necessary classes to represent a normal car and a self driven car. Add the necessary methods in the various classes. Define required interface if possible.
+from Vivek Dutta Mishra to everyone:
+
+share solution as a github link to
+vivek@conceptarchitect.in
