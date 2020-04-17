@@ -1,0 +1,16 @@
+What?
+hiding data.
+hiding details.
+hiding implementation.
+showing only necessary information.
+
+driver dont need to know the internal technical aspects of a car-abstraction ?
+
+only useful information to be shown to end user.
+
+Why?
+End user may not require to know all minute details
+
+How?
+specifying in scope like private, public protected
+

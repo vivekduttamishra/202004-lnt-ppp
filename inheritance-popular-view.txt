@@ -1,0 +1,20 @@
+Inheritance
+
+What?
+
+* reuse from parent 
+* derive properties from another class <-- what is another class?
+* derived class inheriting the properties and behaviours from parent class
+* hierarchy
+* access properties of parent class by child class
+
+
+Why?
+* Avoid redundant code (code reuse)
+
+
+How?
+* language semantic
+	class X : Y{}
+
+

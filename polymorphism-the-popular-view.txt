@@ -1,0 +1,18 @@
+Polymorphism
+
+What?
+* behaving in different ways depending on the input received <-- who? --> function
+
+
+Why?
+* Hide type/properties/methods
+* features can be similar so we can specify them in base class?
+* helps in abstraction---> you hide inner details
+
+How?
+* function and operator overloading
+* method and overriding
+* access modifier
+
+
+

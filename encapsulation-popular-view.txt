@@ -1,0 +1,17 @@
+Encapsulation
+
+What?
+* grouping data and functions into a single object
+* enclosing related information together
+* wrapping data and function in a class
+* prevent changes  datA outside
+
+Why?
+* to protect information from other object
+* data hiding
+
+
+How?
+* using class
+* class with get and set property
+* access specifier (private/protected)

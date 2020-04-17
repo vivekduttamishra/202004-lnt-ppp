@@ -1,4 +1,5 @@
 
+//common to all person
 function createPerson(name, age){
 
     var person=new Object(); 
@@ -23,9 +24,10 @@ function createPerson(name, age){
     return person;
 }
 
-
+//additional skills or behaviors
 function teachDriving(person, veichle){
 
+    //that can be added conditionally and dynamically
     if(person.age<18)
         return console.warn(`${person.name} you need to wait for ${18-person.age} years to drive`);
 
